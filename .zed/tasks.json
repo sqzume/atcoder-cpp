@@ -3,5 +3,9 @@
     "label": "Test",
     "command": "cd $ZED_DIRNAME && g++ -I $ZED_WORKTREE_ROOT/ac-library/ -g -O0 -Wall -Wextra main.cpp -o $ZED_WORKTREE_ROOT/a.out && oj test -c $ZED_WORKTREE_ROOT/a.out -d tests/",
     "reveal": "no_focus"
+  },
+  {
+    "label": "Submit",
+    "command": "cd $ZED_DIRNAME && acc submit main.cpp"
   }
 ]
