@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Test",
+			"type": "shell",
+			"command": "g++ -I ${workspaceFolder}/ac-library/ -g -O0 -Wall -Wextra main.cpp -o ${workspaceFolder}/a.out && oj test -c ${workspaceFolder}/a.out -d tests/",
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+		}
+	]
+}
