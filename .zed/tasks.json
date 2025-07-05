@@ -1,7 +1,7 @@
 [
   {
     "label": "Test",
-    "command": "g++ -I $ZED_WORKTREE_ROOT/ac-library/ -g -O0 -Wall -Wextra ./main.cpp -o $ZED_WORKTREE_ROOT/a.out && oj test -c $ZED_WORKTREE_ROOT/a.out -d tests/",
+    "command": "g++ -I $ZED_WORKTREE_ROOT/ac-library/ -g -O0 -Wall -Wextra ./main.cpp -o $ZED_WORKTREE_ROOT/a.out && oj test -c $ZED_WORKTREE_ROOT/a.out -d tests/ -N",
     "reveal": "no_focus",
     "cwd": "$ZED_DIRNAME/"
   },
