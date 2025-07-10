@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250710_3",
+    "title": "AtCoder Daily Training EASY 2025/07/10 20:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250710_3"
+  },
+  "tasks": [
+    {
+      "id": "abc259_a",
+      "label": "A",
+      "title": "Growth Record",
+      "url": "https://atcoder.jp/contests/adt_easy_20250710_3/tasks/abc259_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc318_a",
+      "label": "B",
+      "title": "Full Moon",
+      "url": "https://atcoder.jp/contests/adt_easy_20250710_3/tasks/abc318_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc378_b",
+      "label": "C",
+      "title": "Garbage Collection",
+      "url": "https://atcoder.jp/contests/adt_easy_20250710_3/tasks/abc378_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc366_b",
+      "label": "D",
+      "title": "Vertical Writing",
+      "url": "https://atcoder.jp/contests/adt_easy_20250710_3/tasks/abc366_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc407_c",
+      "label": "E",
+      "title": "Security 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250710_3/tasks/abc407_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
