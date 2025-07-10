@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250708_3",
+    "title": "AtCoder Daily Training EASY 2025/07/08 19:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250708_3"
+  },
+  "tasks": [
+    {
+      "id": "abc399_a",
+      "label": "A",
+      "title": "Hamming Distance",
+      "url": "https://atcoder.jp/contests/adt_easy_20250708_3/tasks/abc399_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc323_a",
+      "label": "B",
+      "title": "Weak Beats",
+      "url": "https://atcoder.jp/contests/adt_easy_20250708_3/tasks/abc323_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc306_b",
+      "label": "C",
+      "title": "Base 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250708_3/tasks/abc306_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc389_b",
+      "label": "D",
+      "title": "tcaF",
+      "url": "https://atcoder.jp/contests/adt_easy_20250708_3/tasks/abc389_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc227_c",
+      "label": "E",
+      "title": "ABC conjecture",
+      "url": "https://atcoder.jp/contests/adt_easy_20250708_3/tasks/abc227_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
