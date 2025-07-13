@@ -7,6 +7,12 @@
   },
   {
     "label": "Submit",
-    "command": "cd $ZED_DIRNAME && acc submit main.cpp"
+    "command": "acc submit main.cpp",
+    "cwd": "$ZED_DIRNAME"
+  },
+  {
+    "label": "Replace main.cpp",
+    "command": "cp -f $ZED_WORKTREE_ROOT/template.cpp main.cpp",
+    "cwd": "$ZED_DIRNAME"
   }
 ]
