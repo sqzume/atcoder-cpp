@@ -17,6 +17,18 @@ ll INF = 2e18;
 #endif
 
 int main() {
+    ll n;
+    cin >> n;
+
+    if (n % 2 == 1) {
+        return 0;
+    }
+
+    bitset<20> bit;
+    vector<char> pare(n, '(');
+
+    for (int i = 0; i < (1 << n); i++) {
+    }
 
     return 0;
 }
