@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250731_1",
+    "title": "AtCoder Daily Training EASY 2025/07/31 16:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250731_1"
+  },
+  "tasks": [
+    {
+      "id": "abc325_a",
+      "label": "A",
+      "title": "Takahashi san",
+      "url": "https://atcoder.jp/contests/adt_easy_20250731_1/tasks/abc325_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc297_a",
+      "label": "B",
+      "title": "Double Click",
+      "url": "https://atcoder.jp/contests/adt_easy_20250731_1/tasks/abc297_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc241_b",
+      "label": "C",
+      "title": "Pasta",
+      "url": "https://atcoder.jp/contests/adt_easy_20250731_1/tasks/abc241_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc296_b",
+      "label": "D",
+      "title": "Chessboard",
+      "url": "https://atcoder.jp/contests/adt_easy_20250731_1/tasks/abc296_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc390_c",
+      "label": "E",
+      "title": "Paint to make a rectangle",
+      "url": "https://atcoder.jp/contests/adt_easy_20250731_1/tasks/abc390_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
