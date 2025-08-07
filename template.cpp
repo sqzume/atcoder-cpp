@@ -4,7 +4,7 @@ using namespace std;
 // ===== エイリアス =====
 using ll = long long;
 ll INF = 2e18;
-#define rep(i, n) for (int i = 0; i < (n); i++)
+#define rep(i, n) for (ll i = 0; i < (n); i++)
 #define cout(x) cout << (x) << '\n'
 #define chmax(x, y) x = max(x, y)
 #define chmin(x, y) x = min(x, y)
