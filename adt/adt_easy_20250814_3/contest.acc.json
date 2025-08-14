@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250814_3",
+    "title": "AtCoder Daily Training EASY 2025/08/14 20:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250814_3"
+  },
+  "tasks": [
+    {
+      "id": "abc381_a",
+      "label": "A",
+      "title": "11/22 String",
+      "url": "https://atcoder.jp/contests/adt_easy_20250814_3/tasks/abc381_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc361_a",
+      "label": "B",
+      "title": "Insert",
+      "url": "https://atcoder.jp/contests/adt_easy_20250814_3/tasks/abc361_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc286_b",
+      "label": "C",
+      "title": "Cat",
+      "url": "https://atcoder.jp/contests/adt_easy_20250814_3/tasks/abc286_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc214_b",
+      "label": "D",
+      "title": "How many?",
+      "url": "https://atcoder.jp/contests/adt_easy_20250814_3/tasks/abc214_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc304_c",
+      "label": "E",
+      "title": "Virus",
+      "url": "https://atcoder.jp/contests/adt_easy_20250814_3/tasks/abc304_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
