@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20250821_1",
+    "title": "AtCoder Daily Training MEDIUM 2025/08/21 16:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250821_1"
+  },
+  "tasks": [
+    {
+      "id": "abc321_b",
+      "label": "C",
+      "title": "Cutoff",
+      "url": "https://atcoder.jp/contests/adt_medium_20250821_1/tasks/abc321_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc396_b",
+      "label": "D",
+      "title": "Card Pile",
+      "url": "https://atcoder.jp/contests/adt_medium_20250821_1/tasks/abc396_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc217_c",
+      "label": "E",
+      "title": "Inverse of Permutation",
+      "url": "https://atcoder.jp/contests/adt_medium_20250821_1/tasks/abc217_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc267_c",
+      "label": "F",
+      "title": "Index × A(Continuous ver.)",
+      "url": "https://atcoder.jp/contests/adt_medium_20250821_1/tasks/abc267_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc324_d",
+      "label": "G",
+      "title": "Square Permutation",
+      "url": "https://atcoder.jp/contests/adt_medium_20250821_1/tasks/abc324_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
