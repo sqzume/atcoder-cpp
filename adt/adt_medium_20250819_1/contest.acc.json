@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20250819_1",
+    "title": "AtCoder Daily Training MEDIUM 2025/08/19 15:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250819_1"
+  },
+  "tasks": [
+    {
+      "id": "abc405_b",
+      "label": "C",
+      "title": "Not All",
+      "url": "https://atcoder.jp/contests/adt_medium_20250819_1/tasks/abc405_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc411_b",
+      "label": "D",
+      "title": "Distance Table",
+      "url": "https://atcoder.jp/contests/adt_medium_20250819_1/tasks/abc411_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc404_c",
+      "label": "E",
+      "title": "Cycle Graph?",
+      "url": "https://atcoder.jp/contests/adt_medium_20250819_1/tasks/abc404_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc414_c",
+      "label": "F",
+      "title": "Palindromic in Both Bases",
+      "url": "https://atcoder.jp/contests/adt_medium_20250819_1/tasks/abc414_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc409_d",
+      "label": "G",
+      "title": "String Rotation",
+      "url": "https://atcoder.jp/contests/adt_medium_20250819_1/tasks/abc409_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
