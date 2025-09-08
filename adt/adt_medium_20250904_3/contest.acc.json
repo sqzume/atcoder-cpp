@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20250904_3",
+    "title": "AtCoder Daily Training MEDIUM 2025/09/04 20:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250904_3"
+  },
+  "tasks": [
+    {
+      "id": "abc318_b",
+      "label": "C",
+      "title": "Overlapping sheets",
+      "url": "https://atcoder.jp/contests/adt_medium_20250904_3/tasks/abc318_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc269_b",
+      "label": "D",
+      "title": "Rectangle Detection",
+      "url": "https://atcoder.jp/contests/adt_medium_20250904_3/tasks/abc269_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc256_c",
+      "label": "E",
+      "title": "Filling 3x3 array",
+      "url": "https://atcoder.jp/contests/adt_medium_20250904_3/tasks/abc256_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc367_c",
+      "label": "F",
+      "title": "Enumerate Sequences",
+      "url": "https://atcoder.jp/contests/adt_medium_20250904_3/tasks/abc367_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc377_d",
+      "label": "G",
+      "title": "Many Segments 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20250904_3/tasks/abc377_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
