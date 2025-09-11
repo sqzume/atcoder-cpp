@@ -1,22 +1,22 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-// ===== エイリアス =====
 using ll = long long;
-ll INF = 2e18;
-#define rep(i, n) for (int i = 0; i < (n); i++)
-#define cout(x) cout << (x) << '\n'
-#define chmax(x, y) x = max(x, y)
-#define chmin(x, y) x = min(x, y)
-#define yes cout << "Yes" << '\n'
-#define no cout << "No" << '\n'
-
-// ===== デバッグ用 =====
-#ifndef ONLINE_JUDGE
-#define _GLIBCXX_DEBUG
-#endif
+#define rep(i, n) for (ll i = 0; i < (n); i++)
 
 int main() {
+    ll n;
+    cin >> n;
+    vector<pair<ll, ll>> st(n);
+    rep(i, n) cin >> st[i].first >> st[i].second;
 
+    sort(st.begin(), st.end());
+    ll time = st[n - 1].first;
+    if (time < st[n - 1].second) time += st[n - 1].second - time;
+    for (ll i = n - 2; 0 <= i; i--) {
+        time += (st[i + 1].first - st[i].first);
+        if (time < st[i].second) time += st[i].second - time;
+    }
+    time += st[0].first;
+    cout << time << endl;
     return 0;
 }
