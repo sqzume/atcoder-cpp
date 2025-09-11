@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20250826_2",
+    "title": "AtCoder Daily Training MEDIUM 2025/08/26 17:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250826_2"
+  },
+  "tasks": [
+    {
+      "id": "abc335_b",
+      "label": "C",
+      "title": "Tetrahedral Number",
+      "url": "https://atcoder.jp/contests/adt_medium_20250826_2/tasks/abc335_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc294_b",
+      "label": "D",
+      "title": "ASCII Art",
+      "url": "https://atcoder.jp/contests/adt_medium_20250826_2/tasks/abc294_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc229_c",
+      "label": "E",
+      "title": "Cheese",
+      "url": "https://atcoder.jp/contests/adt_medium_20250826_2/tasks/abc229_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc314_c",
+      "label": "F",
+      "title": "Rotate Colored Subsequence",
+      "url": "https://atcoder.jp/contests/adt_medium_20250826_2/tasks/abc314_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc339_d",
+      "label": "G",
+      "title": "Synchronized Players ",
+      "url": "https://atcoder.jp/contests/adt_medium_20250826_2/tasks/abc339_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
