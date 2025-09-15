@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "joi2026-yo1a",
+    "title": "JOI 2025/2026 一次予選 (第1回:9月13日(土))",
+    "url": "https://atcoder.jp/contests/joi2026-yo1a"
+  },
+  "tasks": [
+    {
+      "id": "joi2026_yo1a_a",
+      "label": "A",
+      "title": "面積 (Area)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1a/tasks/joi2026_yo1a_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2026_yo1a_b",
+      "label": "B",
+      "title": "ノートパソコン (Laptop)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1a/tasks/joi2026_yo1a_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2026_yo1a_c",
+      "label": "C",
+      "title": "シャッフル 2 (Shuffle 2)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1a/tasks/joi2026_yo1a_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2026_yo1a_d",
+      "label": "D",
+      "title": "oxゲーム (Xs and Os)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1a/tasks/joi2026_yo1a_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
